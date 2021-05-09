@@ -16,13 +16,13 @@
         android:ems="10"
         android:hint="Yemek İsmini Giriniz"
         android:inputType="textPersonName"
-        app:layout_constraintBottom_toTopOf="@+id/yemekMalzemeText2"
+        app:layout_constraintBottom_toTopOf="@+id/yemekMalzemeText"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/imageView" />
 
     <EditText
-        android:id="@+id/yemekMalzemeText2"
+        android:id="@+id/yemekMalzemeText"
         android:layout_width="343dp"
         android:layout_height="48dp"
         android:layout_marginTop="98dp"
